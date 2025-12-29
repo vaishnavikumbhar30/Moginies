@@ -1,7 +1,7 @@
 # Moginies
 
-"This project is a clone of Moginies, developed purely using HTML and CSS for practice purposes.
-focusing on responsive layouts, visual styling, and attention to detail to enhance front-end development skills."
+This project is a clone of Moginies, developed purely using HTML and CSS for practice purposes.
+focusing on responsive layouts, visual styling, and attention to detail to enhance front-end development skills.
 
 
 ![image](https://github.com/user-attachments/assets/9b32c812-cdaa-4b6a-80d8-7df7cc860ac9)
